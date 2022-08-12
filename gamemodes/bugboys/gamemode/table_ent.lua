@@ -556,7 +556,7 @@ static = false,
 angular = true,
 display_radius_sphere = true,
 size = 32,
-health = 150,
+health = 100,
 radius_activation = 200,
 radius = 700, -- to display it when its being built
 radius_damage = 700,
@@ -1114,7 +1114,7 @@ skin_blue = 24,
 structure_sapper =
 {
 name = "structure_sapper",
-print_name = "Sapper",
+print_name = "Zapper",
 takes_damage = true,
 angular = true,
 display_radius_sphere = true,
